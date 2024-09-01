@@ -1,4 +1,4 @@
-# 👋 Hi I am Htet Min Ko Ko
+# 👋 Hi,I am Htet Min Ko Ko!
 💻 I am a software developer passionate in learning new technologies and enjoy problem solving<br>🧑‍💻 Currently learning Spring and Angular as a full stack development
 
 
