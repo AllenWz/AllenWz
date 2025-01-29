@@ -1,5 +1,5 @@
 # 👋 Hi,I am Htet Min Ko Ko!
-💻 I am a software developer passionate in learning new technologies and enjoy problem solving<br>🧑‍💻 Currently learning Spring and Angular as a full stack development
+💻 I am a system engineer passionate in learning new technologies and enjoy problem solving<br>🧑‍💻 Currently learning Spring and React as a full stack development
 
 
 ## 🌐 Socials:
