@@ -39,4 +39,4 @@ I am a Backend Specialist focused on **Java & Spring Boot**, currently working a
 ---
 
 ### 📊 Social
-[LinkedIn](www.linkedin.com/in/htet-min-ko-ko-202528283) | [Telegram](https://t.me/WzHtet100) | [Mail] joyhtetmin@gmail.com
+[LinkedIn] www.linkedin.com/in/htet-min-ko-ko-202528283 | [Telegram] https://t.me/WzHtet100 | [Mail] joyhtetmin@gmail.com
