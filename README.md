@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I am a junior software engineer passionate in learning new technologies and enjoy problem solving<br>🧑‍💻 Currently learning Spring and React as a full stack development
+💻 I am a software engineer passionate in learning new technologies and enjoy problem solving<br>🧑‍💻 Spealized in java and spring framework
 
 
 ## 🌐 Socials:
