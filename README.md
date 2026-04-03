@@ -41,5 +41,4 @@ I am a Backend Specialist focused on **Java & Spring Boot**, currently working a
 ### 📊 GitHub Activity
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
-[LinkedIn](www.linkedin.com/in/htet-min-ko-ko-202528283) | [Telegram](<img width="1185" height="1390" alt="image" src="https://github.com/user-attachments/assets/46838339-190d-43ee-b759-b4ad30eea57d" />
-)
+[LinkedIn](www.linkedin.com/in/htet-min-ko-ko-202528283) | [Telegram](https://t.me/WzHtet100)
