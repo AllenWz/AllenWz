@@ -1,18 +1,45 @@
-# 💫 About Me:
-💻 I am a software engineer passionate in learning new technologies and enjoy problem solving<br>🧑‍💻 Spealized in java and spring framework
+# 👨‍💻 Htet Min Ko Ko
 
+> "Waste no more time arguing about what a good man should be. Be one." — Marcus Aurelius
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/htet-min-ko-ko-202528283) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@wizkohtet99) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](UChXtlOQdLUO0rtlfUWUJcsg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joyhtetmin@gmail.com) 
+### 🛠️ Backend Specialist | Java & Spring Boot
+I am a Software Developer specializing in building robust, scalable backend systems. My expertise lies in designing complex management solutions and leveraging cloud infrastructure to automate workflows.
 
-# 💻 Tech Stack:
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AllenWz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AllenWz&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AllenWz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| Category | Technical Stack |
+| :--- | :--- |
+| **Primary Backend** | **Java**, **Spring Boot**, Spring Security, Hibernate |
+| **Frontend** | React.js, Tailwind CSS |
+| **Cloud & DevOps** | **AWS** (Lambda, SAM, S3), Git, GitHub Flow |
+| **Databases** | PostgreSQL, MySQL, Redis |
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AllenWz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Featured Projects
+* **E-commerce System (Current):** Developing a scalable backend architecture with integrated payment and order management.
+* **Solar Energy Management:** Engineered a real-time monitoring system for energy distribution and efficiency tracking.
+* **HR Management System:** Built a comprehensive platform for employee lifecycle management and payroll processing.
+* **Inventory Management:** Designed an automated system using **AWS SAM** to optimize stock tracking and supply chain workflows.
+
+---
+
+### 🌱 Growth & Philosophy
+* **Currently Mastering:** AWS Certified Developer – Associate (DVA-C02) ☁️
+* **Methodology:** Strong focus on **GitHub Flow** for collaborative development and CI/CD best practices.
+* **Daily Practice:** Constant iteration through repetitive practice (SRS) and Stoic reflection.
+* **Mission:** Building high-impact software as an Individual Contributor while preparing for my 2026 transition to Japan. 🇯🇵
+
+---
+
+### 🛠️ Tech Stack Badges
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Activity
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+[LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio](YOUR_PORTFOLIO_URL)
