@@ -38,7 +38,5 @@ I am a Backend Specialist focused on **Java & Spring Boot**, currently working a
 
 ---
 
-### 📊 GitHub Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-[LinkedIn](www.linkedin.com/in/htet-min-ko-ko-202528283) | [Telegram](https://t.me/WzHtet100)
+### 📊 Social
+[LinkedIn](www.linkedin.com/in/htet-min-ko-ko-202528283) | [Telegram](https://t.me/WzHtet100) | [Mail](joyhtetmin@gmail.com)
