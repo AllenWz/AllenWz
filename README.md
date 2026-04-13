@@ -22,13 +22,6 @@ I am a Backend Specialist focused on **Java & Spring Boot**, currently working a
 
 ---
 
-### 🎯 Roadmap to Architecture & Growth
-* **Cloud Infrastructure:** Currently studying for the **AWS Solutions Architect Associate** to design and deploy complex systems directly on cloud platforms.
-* **Continuous Learning:** Utilizing **Spaced Repetition (SRS)** and daily technical practice to master coding and System Design.
-* **Daily Discipline:** I apply the same "step-by-step" philosophy to my fitness and my code—focusing on the small wins that lead to my future goals.
-
----
-
 ### 🛠️ Tech Stack Badges
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
